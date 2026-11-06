@@ -1,0 +1,15 @@
+
+@import "./css/base.css";
+@import "./css/components.css";
+@import "./css/pages.css";
+
+
+@import "tailwindcss";
+
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5%;
+  padding: 10px;
+}
